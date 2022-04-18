@@ -8,8 +8,13 @@ Donate:
 http://donate-army-ukraine.site/
 
 BTC: bc1qyyzryqh5llgl9fqhzz79w677w3n3g48sz38ycs
+
 ETH/BNB: 0xC1AA18De5f4e35462d7E98848a530A251E4695DF
+
 bnb BEP2: bnb1xa6wp5gsfjj2dskj7lqrqyukpuzpfmy4fyvvkx
+
 LTC: ltc1qzur28rshs20vhw3c2jdj3dahaewvnesrh4606v
+
 USDT (TRC20): TB3QBrdceKiMWUMbHegszmwsWBzZwfqihW
+
 Solana: 88o5ECyyCqffp8RDvfP6VytZSkWBS3jH86h3Uahfk51N
