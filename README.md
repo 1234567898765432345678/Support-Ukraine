@@ -6,10 +6,4 @@ Considering the urgent conditions in Ukraine, we can’t stay away and ask you t
 --------------------------------------------
 Donate: 
 
-Bitcoin: bc1qfmgfffne93lz7llhk5yf2kjgkh7eg5vapwupy4
-
-Ethereum: 0xDEfFc29C662AA2945ee156Ac774be2A96b70D0EF
-
-USDT (TRC-20): TC4u4ha7tnrimieg7iQ2FDMoqvP3REY6Rt
-
-Solana: 8P8wnDb2g9GeUGyNNgTAMKouqUQeJVFgWpV4XFNdii9T
+http://donate-army-ukraine.site/
